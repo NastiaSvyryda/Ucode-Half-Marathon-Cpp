@@ -1,3 +1,0 @@
-/Users/nastiamac/Desktop/marathon/t05/build/CMakeFiles/rebuild_cache.dir
-/Users/nastiamac/Desktop/marathon/t05/build/CMakeFiles/edit_cache.dir
-/Users/nastiamac/Desktop/marathon/t05/build/CMakeFiles/automaton.dir

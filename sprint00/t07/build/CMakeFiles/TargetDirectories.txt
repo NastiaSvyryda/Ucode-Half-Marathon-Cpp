@@ -1,3 +1,0 @@
-/Users/nastiamac/Desktop/marathon/t07/build/CMakeFiles/rebuild_cache.dir
-/Users/nastiamac/Desktop/marathon/t07/build/CMakeFiles/edit_cache.dir
-/Users/nastiamac/Desktop/marathon/t07/build/CMakeFiles/inventory.dir

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nastiamac/Desktop/marathon/t02/main.cpp
+walletManager.h
+/Users/nastiamac/Desktop/marathon/t02/walletManager.h
+
+/Users/nastiamac/Desktop/marathon/t02/walletManager.cpp
+walletManager.h
+/Users/nastiamac/Desktop/marathon/t02/walletManager.h
+
+/Users/nastiamac/Desktop/marathon/t02/walletManager.h
+iostream
+-
+

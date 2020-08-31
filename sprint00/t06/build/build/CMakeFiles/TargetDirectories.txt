@@ -1,0 +1,3 @@
+/Users/nastiamac/Desktop/marathon/t06/build/build/CMakeFiles/rebuild_cache.dir
+/Users/nastiamac/Desktop/marathon/t06/build/build/CMakeFiles/edit_cache.dir
+/Users/nastiamac/Desktop/marathon/t06/build/build/CMakeFiles/meadSong.dir

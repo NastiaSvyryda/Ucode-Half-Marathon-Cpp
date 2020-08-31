@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nastiamac/Desktop/marathon/t04/main.cpp
+referenceOrPointer.h
+/Users/nastiamac/Desktop/marathon/t04/referenceOrPointer.h
+
+/Users/nastiamac/Desktop/marathon/t04/referenceOrPointer.cpp
+referenceOrPointer.h
+/Users/nastiamac/Desktop/marathon/t04/referenceOrPointer.h
+
+/Users/nastiamac/Desktop/marathon/t04/referenceOrPointer.h
+iostream
+-
+

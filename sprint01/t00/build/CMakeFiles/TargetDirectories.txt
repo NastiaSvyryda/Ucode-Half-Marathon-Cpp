@@ -1,0 +1,3 @@
+/Users/nastiamac/Desktop/marathon/sprint01/t00/build/CMakeFiles/rebuild_cache.dir
+/Users/nastiamac/Desktop/marathon/sprint01/t00/build/CMakeFiles/edit_cache.dir
+/Users/nastiamac/Desktop/marathon/sprint01/t00/build/CMakeFiles/simpleSort.dir

@@ -1,1 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/c++  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/simpleSort.dir/main.cpp.o CMakeFiles/simpleSort.dir/src/simpleSort.cpp.o -o simpleSort 

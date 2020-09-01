@@ -2,9 +2,10 @@
 
 void moveAlong(char **argv) {
     std::vector<std::string> words;
+    std::string str;
 
     for (int i =0; argv[i] != nullptr; i++) {
-        std::string str = argv[i];
+        str = argv[i];
         std::transform(str.begin(), str.end(), str.begin(),
                        [](unsigned char c){ return std::tolower(c); });
         if (str.find("mercer") != std::string::npos || str.find( "emer") != std::string::npos

@@ -55,16 +55,16 @@ static void remove(std::vector<std::string>& args, std::list<std::string>& inven
         std::cerr << "Invalid item." << std::endl;
 }
 
-static void routes(std::string& input, std::vector<std::string>& args, std::list<std::string>& inventory_list) {
-    if (input == "help")
+static void routes(std::vector<std::string>& args, std::list<std::string>& inventory_list) {
+    if (args[0] == "help" && args.size() == 1)
         std::cout << HELP << std::endl;
-    else if (input == "show")
+    else if (args[0] == "show" && args.size() == 1)
         show(inventory_list);
     else if (args[0] == "insert")
         insert( args, inventory_list);
     else if (args[0] == "remove")
         remove(args, inventory_list);
-    else if (input == "exit") {
+    else if (args[0] == "exit" && args.size() == 1) {
         std::cout << EXIT << std::endl;
         exit(0);
     }
@@ -81,7 +81,7 @@ void inventory(void) {
         getline (std::cin, input, '\n');
         input_parse(input, args);
         if(!args.empty()) {
-            routes(input, args,  inventory_list);
+            routes(args, inventory_list);
             args.clear();
         }
     }

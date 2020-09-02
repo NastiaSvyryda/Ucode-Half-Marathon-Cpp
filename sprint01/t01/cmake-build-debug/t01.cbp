@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="t01"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;CMake Files\src\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="moveAlong">
+				<Option output="/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/moveAlong" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/cmake-build-debug/Makefile&quot;  VERBOSE=1 moveAlong"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="moveAlong/fast">
+				<Option output="/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/moveAlong" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/cmake-build-debug/Makefile&quot;  VERBOSE=1 moveAlong/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="moveAlong_lib">
+				<Option output="/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/cmake-build-debug/src/libmoveAlong_lib.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/cmake-build-debug/src"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 moveAlong_lib"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="moveAlong_lib/fast">
+				<Option output="/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/cmake-build-debug/src/libmoveAlong_lib.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/cmake-build-debug/src"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 moveAlong_lib/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/main.cpp">
+			<Option target="moveAlong"/>
+		</Unit>
+		<Unit filename="/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/src/moveAlong.cpp">
+			<Option target="moveAlong_lib"/>
+		</Unit>
+		<Unit filename="/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/src/moveAlong.h">
+			<Option target="moveAlong_lib"/>
+		</Unit>
+		<Unit filename="/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\src\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

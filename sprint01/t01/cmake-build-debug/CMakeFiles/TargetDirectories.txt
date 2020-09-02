@@ -1,0 +1,6 @@
+/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/cmake-build-debug/CMakeFiles/moveAlong.dir
+/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/cmake-build-debug/src/CMakeFiles/moveAlong_lib.dir

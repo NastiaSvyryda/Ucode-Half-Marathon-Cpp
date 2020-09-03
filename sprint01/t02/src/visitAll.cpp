@@ -25,9 +25,6 @@ void visitAll(std::vector<std::string> args) {
     int start = -1;
 
     fill_cities(args, cities_info);
-//    for (int i = 0; i < cities_info.size(); i++) {
-//        std::cout << cities_info[i].name << " " << cities_info[i].stamina << " " <<cities_info[i].distance << std::endl;
-//    }
     start = find_start(cities_info);
     if (start != -1) {
         for (int y = start, k = 0; k < cities_info.size(); y++, k++) {

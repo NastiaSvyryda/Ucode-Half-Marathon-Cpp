@@ -2,6 +2,7 @@
 #include <iostream>
 #include <list>
 #include <unistd.h>
+#include <algorithm>
 
 enum class Gender {
     Male,

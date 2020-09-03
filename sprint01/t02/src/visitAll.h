@@ -4,6 +4,7 @@
 #include <string>
 #include <deque>
 #include <vector>
+#include <algorithm>
 
 struct s_city {
     std::string name;

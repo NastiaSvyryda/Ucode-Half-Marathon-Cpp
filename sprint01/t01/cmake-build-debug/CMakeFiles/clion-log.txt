@@ -1,4 +1,4 @@
-/private/var/folders/zz/zyxvpxvq6csfxvn_n0003z7h000zsw/T/AppTranslocation/3D4805BB-8A57-445D-B941-82DAC1F1EAE9/d/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01
+/private/var/folders/zz/zyxvpxvq6csfxvn_n0003z7h000zsw/T/AppTranslocation/5F1B394F-EDDE-4E5E-B507-C9D53019BD5D/d/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01
 -- The C compiler identification is AppleClang 10.0.1.10010046
 -- The CXX compiler identification is AppleClang 10.0.1.10010046
 -- Check for working C compiler: /Library/Developer/CommandLineTools/usr/bin/cc

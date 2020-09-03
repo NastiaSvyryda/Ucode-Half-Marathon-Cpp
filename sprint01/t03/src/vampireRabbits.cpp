@@ -81,7 +81,6 @@ void randome_rabbit(std::list<Rabbit>& rabbits, Amount& amount) {
         amount.male++;
         if (!rabbit.isVampire)
             amount.male_n++;
-
     }
     rabbit.age = 0;
     rabbits.push_back(rabbit);

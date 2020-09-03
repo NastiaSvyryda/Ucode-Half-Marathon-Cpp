@@ -39,19 +39,19 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /private/var/folders/zz/zyxvpxvq6csfxvn_n0003z7h000zsw/T/AppTranslocation/347BAB2A-2EBC-4BE3-8243-8F1F96488602/d/CLion.app/Contents/bin/cmake/mac/bin/cmake
+CMAKE_COMMAND = /private/var/folders/zz/zyxvpxvq6csfxvn_n0003z7h000zsw/T/AppTranslocation/5F1B394F-EDDE-4E5E-B507-C9D53019BD5D/d/CLion.app/Contents/bin/cmake/mac/bin/cmake
 
 # The command to remove a file.
-RM = /private/var/folders/zz/zyxvpxvq6csfxvn_n0003z7h000zsw/T/AppTranslocation/347BAB2A-2EBC-4BE3-8243-8F1F96488602/d/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
+RM = /private/var/folders/zz/zyxvpxvq6csfxvn_n0003z7h000zsw/T/AppTranslocation/5F1B394F-EDDE-4E5E-B507-C9D53019BD5D/d/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01
+CMAKE_SOURCE_DIR = /Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t05
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t05/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -59,7 +59,7 @@ CMAKE_BINARY_DIR = /Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	/private/var/folders/zz/zyxvpxvq6csfxvn_n0003z7h000zsw/T/AppTranslocation/347BAB2A-2EBC-4BE3-8243-8F1F96488602/d/CLion.app/Contents/bin/cmake/mac/bin/cmake -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	/private/var/folders/zz/zyxvpxvq6csfxvn_n0003z7h000zsw/T/AppTranslocation/5F1B394F-EDDE-4E5E-B507-C9D53019BD5D/d/CLion.app/Contents/bin/cmake/mac/bin/cmake -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -70,7 +70,7 @@ rebuild_cache/fast: rebuild_cache
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	/private/var/folders/zz/zyxvpxvq6csfxvn_n0003z7h000zsw/T/AppTranslocation/347BAB2A-2EBC-4BE3-8243-8F1F96488602/d/CLion.app/Contents/bin/cmake/mac/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+	/private/var/folders/zz/zyxvpxvq6csfxvn_n0003z7h000zsw/T/AppTranslocation/5F1B394F-EDDE-4E5E-B507-C9D53019BD5D/d/CLion.app/Contents/bin/cmake/mac/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/cmake-build-debug/CMakeFiles /Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t05/cmake-build-debug/CMakeFiles /Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t05/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t01/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t05/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -111,30 +111,30 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named moveAlong
+# Target rules for targets named stdAlgoV2
 
 # Build rule for target.
-moveAlong: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 moveAlong
-.PHONY : moveAlong
+stdAlgoV2: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 stdAlgoV2
+.PHONY : stdAlgoV2
 
 # fast build rule for target.
-moveAlong/fast:
-	$(MAKE) -f CMakeFiles/moveAlong.dir/build.make CMakeFiles/moveAlong.dir/build
-.PHONY : moveAlong/fast
+stdAlgoV2/fast:
+	$(MAKE) -f CMakeFiles/stdAlgoV2.dir/build.make CMakeFiles/stdAlgoV2.dir/build
+.PHONY : stdAlgoV2/fast
 
 #=============================================================================
-# Target rules for targets named moveAlong_lib
+# Target rules for targets named stdAlgoV2_lib
 
 # Build rule for target.
-moveAlong_lib: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 moveAlong_lib
-.PHONY : moveAlong_lib
+stdAlgoV2_lib: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 stdAlgoV2_lib
+.PHONY : stdAlgoV2_lib
 
 # fast build rule for target.
-moveAlong_lib/fast:
-	$(MAKE) -f src/CMakeFiles/moveAlong_lib.dir/build.make src/CMakeFiles/moveAlong_lib.dir/build
-.PHONY : moveAlong_lib/fast
+stdAlgoV2_lib/fast:
+	$(MAKE) -f src/CMakeFiles/stdAlgoV2_lib.dir/build.make src/CMakeFiles/stdAlgoV2_lib.dir/build
+.PHONY : stdAlgoV2_lib/fast
 
 main.o: main.cpp.o
 
@@ -142,7 +142,7 @@ main.o: main.cpp.o
 
 # target to build an object file
 main.cpp.o:
-	$(MAKE) -f CMakeFiles/moveAlong.dir/build.make CMakeFiles/moveAlong.dir/main.cpp.o
+	$(MAKE) -f CMakeFiles/stdAlgoV2.dir/build.make CMakeFiles/stdAlgoV2.dir/main.cpp.o
 .PHONY : main.cpp.o
 
 main.i: main.cpp.i
@@ -151,7 +151,7 @@ main.i: main.cpp.i
 
 # target to preprocess a source file
 main.cpp.i:
-	$(MAKE) -f CMakeFiles/moveAlong.dir/build.make CMakeFiles/moveAlong.dir/main.cpp.i
+	$(MAKE) -f CMakeFiles/stdAlgoV2.dir/build.make CMakeFiles/stdAlgoV2.dir/main.cpp.i
 .PHONY : main.cpp.i
 
 main.s: main.cpp.s
@@ -160,7 +160,7 @@ main.s: main.cpp.s
 
 # target to generate assembly for a file
 main.cpp.s:
-	$(MAKE) -f CMakeFiles/moveAlong.dir/build.make CMakeFiles/moveAlong.dir/main.cpp.s
+	$(MAKE) -f CMakeFiles/stdAlgoV2.dir/build.make CMakeFiles/stdAlgoV2.dir/main.cpp.s
 .PHONY : main.cpp.s
 
 # Help Target
@@ -171,8 +171,8 @@ help:
 	@echo "... depend"
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
-	@echo "... moveAlong"
-	@echo "... moveAlong_lib"
+	@echo "... stdAlgoV2"
+	@echo "... stdAlgoV2_lib"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

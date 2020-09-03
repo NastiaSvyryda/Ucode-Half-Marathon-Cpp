@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libstdAlgoV2_lib.a  CMakeFiles/stdAlgoV2_lib.dir/stdAlgoV2.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libstdAlgoV2_lib.a

@@ -1,0 +1,6 @@
+/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t05/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t05/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t05/cmake-build-debug/CMakeFiles/stdAlgoV2.dir
+/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t05/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t05/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint01/t05/cmake-build-debug/src/CMakeFiles/stdAlgoV2_lib.dir

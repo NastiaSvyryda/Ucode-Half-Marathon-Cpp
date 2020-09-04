@@ -1,8 +1,9 @@
 #pragma once
+#include <iostream>
 
 template <class Container>
 void outputAny(const Container& c) {
-    for (auto i : Container)
+    for (auto i : c)
         std::cout << i << std::endl;
 }
 

@@ -1,9 +1,10 @@
 #pragma once
 
-class <weapon class> final {
+class Axe final {
     public:
-        <weapon class>(int damage);
+        Axe(int damage);
         int getDamage() const;
     private:
         const int m_damage;
 };
+

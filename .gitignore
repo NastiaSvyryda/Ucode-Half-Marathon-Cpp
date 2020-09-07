@@ -7,4 +7,5 @@
 .idea
 obj
 build
+cmake-build-debug
 

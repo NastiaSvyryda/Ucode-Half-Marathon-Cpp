@@ -1,2 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/ar qc libmoveAlong_lib.a  CMakeFiles/moveAlong_lib.dir/moveAlong.cpp.o
-/Library/Developer/CommandLineTools/usr/bin/ranlib libmoveAlong_lib.a

@@ -1,6 +1,3 @@
-//
-// Created by Oleksandr Arnopolin on 9/4/20.
-//
 #pragma once
 #include <iostream>
 #include <map>

@@ -64,11 +64,11 @@ int main() {
 //    std::cout << *MinElement(vector, [](int a, int b) { return sqrt(a) < sqrt(b); }) << std::endl;
 //    std::cout << *MaxElement(vector, [](int a, int b) { return sqrt(a) < sqrt(b); }) << std::endl;
 
-//    std::vector<double> vector = { 1, 2 , 3, 5, 1, 2, 1, 0.16};
-//    Sort(vector);
-//    Sort(vector, [](int a, int b) { return sqrt(a) < sqrt(b); });
-//    for (auto& i : vector)
-//        std::cout << i << std::endl;
+   // std::list<int> list = { 1, 2 , 3, 5, 1, 2, 1};
+   // Sort(list);
+   //Sort(vector, [](int a, int b) { return sqrt(a) < sqrt(b); });
+   // for (auto& i : list)
+   //     std::cout << i << std::endl;
 
 //    std::vector<double> vector = { 1, 2 , 3, 5, 1, 2, 1, 0.16};
 //    Unique(vector);

@@ -3,7 +3,10 @@
 #include <string>
 #include <map>
 #include <initializer_list>
+#include <stdexcept>
 
+#define HEALTH 100
+#define RESIST 50
 class Draugr {
     public:
         Draugr();
@@ -16,4 +19,6 @@ class Draugr {
         double m_health;
         const int m_frostResist;
 };
+
+void executeDraugr(int args, char **argv);
 

@@ -1,18 +1,4 @@
-/private/var/folders/zz/zyxvpxvq6csfxvn_n0003z7h000zsw/T/AppTranslocation/FB1BCA8F-DB88-4127-AAAA-0006C73FA90B/d/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint04/t00/utils
--- The C compiler identification is AppleClang 10.0.1.10010046
--- The CXX compiler identification is AppleClang 10.0.1.10010046
--- Check for working C compiler: /Library/Developer/CommandLineTools/usr/bin/cc
--- Check for working C compiler: /Library/Developer/CommandLineTools/usr/bin/cc -- works
--- Detecting C compiler ABI info
--- Detecting C compiler ABI info - done
--- Detecting C compile features
--- Detecting C compile features - done
--- Check for working CXX compiler: /Library/Developer/CommandLineTools/usr/bin/c++
--- Check for working CXX compiler: /Library/Developer/CommandLineTools/usr/bin/c++ -- works
--- Detecting CXX compiler ABI info
--- Detecting CXX compiler ABI info - done
--- Detecting CXX compile features
--- Detecting CXX compile features - done
+/private/var/folders/zz/zyxvpxvq6csfxvn_n0003z7h000zsw/T/AppTranslocation/7F89568F-C521-4332-95D1-0D6D6BF8679E/d/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint04/t00/utils
 -- Configuring done
 -- Generating done
 -- Build files have been written to: /Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint04/t00/utils/cmake-build-debug

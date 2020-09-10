@@ -1,4 +1,4 @@
-#include "src/Draugr.h"
+#include "Draugr.h"
 
 int main() {
     Draugr d1;

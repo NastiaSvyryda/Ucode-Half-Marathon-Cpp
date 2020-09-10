@@ -15,7 +15,7 @@ static void checkPhrase(std::string str, int& phrase) {
 void executeDraugr(int args, char **argv) {
     int phrase = 0;
     size_t idx;
-    int health = HEALTH;
+    double health = HEALTH;
     int resist = RESIST;
 
     checkPhrase(std::string(argv[1]), phrase);
@@ -24,7 +24,7 @@ void executeDraugr(int args, char **argv) {
         dr.shoutPhrase(phrase);
     }
     else if (args > 1) {
-        health = std::stoi(std::string(argv[2]), &idx);
+        health = std::stod(std::string(argv[2]), &idx);
         if (std::string(argv[2])[idx] != '\0')
             throw std::exception();
         if (args == 3) {
@@ -65,6 +65,6 @@ Draugr::Draugr(int frostResist) : m_health(HEALTH), m_frostResist(frostResist) {
 }
 
 Draugr::Draugr(double health, int frostResist) : m_health(health), m_frostResist(frostResist) {
-    std::cout << "Draugr with " << health << " health and " << frostResist << "% frost resist was born" << std::endl;
+    std::cout << "Draugr with " << health << " health and " << frostResist << "% frost resist was born!" << std::endl;
     std::cout << "Draugr ("<< health <<" health, "<< frostResist <<"% frost resist) shouts:" << std::endl;
 }

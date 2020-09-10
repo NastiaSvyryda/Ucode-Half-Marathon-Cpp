@@ -1,2 +1,0 @@
-/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint04/t00/utils/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint04/t00/utils/cmake-build-debug/CMakeFiles/edit_cache.dir

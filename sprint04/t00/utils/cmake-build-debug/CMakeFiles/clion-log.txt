@@ -1,4 +1,0 @@
-/private/var/folders/zz/zyxvpxvq6csfxvn_n0003z7h000zsw/T/AppTranslocation/7F89568F-C521-4332-95D1-0D6D6BF8679E/d/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint04/t00/utils
--- Configuring done
--- Generating done
--- Build files have been written to: /Users/asvyryda/Desktop/Ucode-Half-Marathon-Cpp/sprint04/t00/utils/cmake-build-debug

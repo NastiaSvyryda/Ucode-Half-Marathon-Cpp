@@ -1,4 +1,4 @@
-#include "src/Draugr.h"
+#include "Draugr.h"
 
 int main(int argc, char **argv){
     int phrase = 0;

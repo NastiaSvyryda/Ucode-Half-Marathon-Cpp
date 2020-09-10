@@ -1,5 +1,5 @@
-#include "src/Soldier.h"
-#include "src/Weapon.h"
+#include "Soldier.h"
+#include "Weapon.h"
 #include <iostream>
 #include <string>
 
